@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Sincronización/sincronización.md",
+                "file": "2-máquinas-virtuales/Maquinas-virtuales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sincronización"
+              "title": "Maquinas-virtuales"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Sincronización/sincronización.md",
+                "file": "2-máquinas-virtuales/Maquinas-virtuales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sincronización"
+              "title": "Backlinks for Maquinas-virtuales"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Sincronización/sincronización.md",
+                "file": "2-máquinas-virtuales/Maquinas-virtuales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sincronización"
+              "title": "Outgoing links from Maquinas-virtuales"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Sincronización/sincronización.md",
+                "file": "2-máquinas-virtuales/Maquinas-virtuales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sincronización"
+              "title": "Outline of Maquinas-virtuales"
             }
           }
         ]
@@ -170,11 +170,14 @@
   },
   "active": "c085b27638ae2d74",
   "lastOpenFiles": [
-    "1-Sincronización/adjuntos/Pasted image 20250519205604.png",
     "spring-1/spring-1.md",
-    "0-Planificación/Planificación.md",
+    "2-máquinas-virtuales/Maquinas-virtuales.md",
+    "2-máquinas-virtuales",
+    "spring-1/adjuntos/Pasted image 20250519211345.png",
     "README.md",
     "1-Sincronización/sincronización.md",
+    "0-Planificación/Planificación.md",
+    "1-Sincronización/adjuntos/Pasted image 20250519205604.png",
     "1-Sincronización/adjuntos/Pasted image 20250519205519.png",
     "1-Sincronización/adjuntos",
     "1-Sincronización",
