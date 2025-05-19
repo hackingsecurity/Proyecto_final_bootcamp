@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "attachmentFolderPath": "./adjuntos"
+  "attachmentFolderPath": "./adjuntos",
+  "useMarkdownLinks": true
 }
