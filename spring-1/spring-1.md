@@ -33,6 +33,56 @@ Ahora creamos un máquina virtual BSD y cogemos el .iso para carga la máquina.
 
 
 
+Creación de las interfacez de red en virtualbox
+
+* https://aprendaredes.com/cgi-bin/ipcalc/ipcalc_cgi1?host=10.0.100.0&mask1=24&mask2=
+* https://aprendaredes.com/cgi-bin/ipcalc/ipcalc_cgi1?host=10.0.200.0&mask1=24&mask2=
+
+
+Previamente abría que crear la interfaces de red y poner para la VLAN100 el dhcp activado.
+
+![](adjuntos/Pasted%20image%2020250520194136.png)
+
+
+Posteriormente las configuramos en la máquina virtual PFsense
+
+![](adjuntos/Pasted%20image%2020250520194011.png)
+
+![](adjuntos/Pasted%20image%2020250520194044.png)
+
+
+
+## Configuración de Pfsense
+
+
+![](adjuntos/Pasted%20image%2020250520201938.png)
+
+
+
+![](adjuntos/Pasted%20image%2020250520194256.png)
+
+
+
+![](adjuntos/Pasted%20image%2020250520194319.png)
+
+
+
+Importante elegir bien las interfaces para configurar la WAN y la LAN, en nuestro caso vamos a usar em0 acabada en 34 para la WAN (100).
+
+![](adjuntos/Pasted%20image%2020250520201952.png)
+
+![](adjuntos/Pasted%20image%2020250520202145.png)
+
+
+Tarda un rato en proceder con la instalación.
+
+
+Configuramos la LAN  a 10.0.200.1/24 y desactivamos DHCP y procedemos a instalar.
+
+
+![](adjuntos/Pasted%20image%2020250520205146.png)
+
+
 
 
 

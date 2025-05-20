@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Sincronización/sincronización.md",
+                "file": "spring-1/spring-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sincronización"
+              "title": "spring-1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "60aab2a063e9914b",
@@ -171,20 +171,27 @@
   "active": "c085b27638ae2d74",
   "lastOpenFiles": [
     "comandos_git_cmd.md",
-    "0-Planificación/Planificación.md",
+    "spring-1/adjuntos/Pasted image 20250520205146.png",
+    "spring-1/adjuntos/Pasted image 20250520202145.png",
+    "spring-1/adjuntos/Pasted image 20250520201952.png",
+    "spring-1/adjuntos/Pasted image 20250520201938.png",
+    "spring-1/adjuntos/Pasted image 20250520194319.png",
+    "spring-1/adjuntos/Pasted image 20250520194256.png",
+    "spring-1/adjuntos/Pasted image 20250520194136.png",
+    "spring-1/adjuntos/Pasted image 20250520194044.png",
+    "spring-1/adjuntos/Pasted image 20250520194011.png",
     "2-máquinas-virtuales/Maquinas-virtuales.md",
+    "3-esquema-proyecto/proyecto-final-bootcamp-the-bridge-bc.drawio",
+    "3-esquema-proyecto",
     "spring-1/spring-1.md",
     "2-máquinas-virtuales",
     "spring-1/adjuntos/Pasted image 20250519211345.png",
     "README.md",
     "1-Sincronización/sincronización.md",
-    "1-Sincronización/adjuntos/Pasted image 20250519205604.png",
-    "1-Sincronización/adjuntos/Pasted image 20250519205519.png",
+    "0-Planificación/Planificación.md",
     "1-Sincronización/adjuntos",
     "1-Sincronización",
     "0-Planificación",
-    "spring-1/adjuntos/Pasted image 20250519203050.png",
-    "spring-1/adjuntos/Pasted image 20250519202853.png",
     "spring-1/adjuntos",
     "spring-1"
   ]
